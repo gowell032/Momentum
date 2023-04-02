@@ -1,0 +1,19 @@
+{
+  "name": "momentum",
+  "version": "1.0.0",
+  "description": "for challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gowell032/Momentum.git"
+  },
+  "author": "hj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gowell032/Momentum/issues"
+  },
+  "homepage": "https://github.com/gowell032/Momentum#readme"
+}
