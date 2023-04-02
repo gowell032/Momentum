@@ -27,6 +27,7 @@ const paintFocus = (focus) => {
         localStorage.removeItem("focus")
         focusContainer.classList.remove("none");
         focusH2.classList.add("none");
+        focusInput.value = ""
     })
     focusLi.appendChild(focusDel);
     focusUl.appendChild(focusLi);

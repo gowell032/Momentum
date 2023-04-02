@@ -148,7 +148,7 @@ body {
 .logout-btn {
     height: 40px;
     color: white;
-    border: none;
+    border: 2px solid white;
     font-size: 20px;
     font-weight: 500;
     cursor: pointer;
