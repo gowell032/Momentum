@@ -1,5 +1,7 @@
 # Momentum
 
+![ezgif com-video-to-gif (13)](https://user-images.githubusercontent.com/98885221/229361638-3ab5217e-1382-4294-8143-4589ae977b2c.gif)
+
 ## 바로가기 
 https://gowell032.github.io/Momentum/
 
